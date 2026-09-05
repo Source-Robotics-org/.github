@@ -1,4 +1,3 @@
-## Our Main Projects
 
 | Motor drivers | Robotic arms | Electric grippers |
 |--------------|--------------|-------------------|
